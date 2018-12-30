@@ -33,7 +33,7 @@ func main() {
   }
 }
 
-// torateColor exports the colored columns with circuration.
+// rotateColor exports the colored columns with circuration.
 func rotateColor(i int, col interface{}) {
   switch i % 7 {
   case 0:
